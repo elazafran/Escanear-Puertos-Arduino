@@ -10,7 +10,7 @@ Los pines a los que está asociado varían de un modelo a otro. La siguiente tab
 <tr>
 <td><span style="font-weight:400;">MODELO</span></td>
 <td><span style="font-weight:400;">SDA</span></td>
-<td><span style="font-weight:400;">SCK</span></td>
+<td><span style="font-weight:400;">SCL</span></td>
 </tr>
 <tr>
 <td><span style="font-weight:400;">Uno</span></td>
